@@ -13,6 +13,7 @@ Ao final deste curso, é desenvolvido um projeto, capaz de criar interfaces sem 
 - order
 - align-self
 
+
 - [x] Curso finalizado
 - [x] Projeto finalizado
 - [ ] Dúvidas para ajustar a responsividade do site
